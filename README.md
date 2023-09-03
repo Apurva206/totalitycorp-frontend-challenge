@@ -1,7 +1,17 @@
+# Tech Stack
+
+This project is built using the following technologies:
+
+- **Frontend Framework**: [React.js](https://reactjs.org/)
+  - React is a JavaScript library for building user interfaces. It is the core framework for the frontend development in this project.
+  - I have used React-Router-DOM {Browserroutes, routes, route, link} , React-icons, React-Typed, React-animation.
+
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+  - Tailwind CSS is a utility-first CSS framework that provides a set of pre-built, highly customizable styling classes. It is used for styling the user interface components in this project.
+  - 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project is made using Tailwind Css as UI library.
 
 Challenge Details 
 
