@@ -1,6 +1,36 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made using Tailwind Css as UI library.
+
+Challenge Details 
+
+Product Listing: 
+In apiTopProduct the Api of all the products are listed as a key and than by passing props in the Product.jsx the url and other information is shown. 
+Some React-icons are used from the React-icon Library.
+On clicking the search icon the page is directed to the details of that product that includes color, quantity, description, price etc.
+React-Routes are used in routing the pages.
+
+Categories:
+categories includes the different categories available.
+
+Navbar:
+Navbar consists of-
+Search Bar: You can search the product here.
+
+Home: On clicking Home page it will redirect you to the initial screen or page.
+
+Login: Login form is made which include your Full Name , Email, Password. after fill all the fields a mess will prompt saying thank you message. if any field is left and you press submit button it prompt please fill all the fields.
+
+Register: Registeration form is made which will help in registering.
+
+Shopping Cart:
+This project includes a shopping cart feature that allows users to add, remove, and manage products in their cart. Users can view the added products, their quantities, and the total cost of items in real-time.
+Shopping cart button is on the navbar which is made using react-icons.
+
+Responsive Design: 
+Tried to make this project responsive.
+
 
 ## Available Scripts
 
